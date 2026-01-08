@@ -1,0 +1,7 @@
+{
+  "name": "EduGenie: Textbook Question Generator",
+  "description": "Upload a textbook page to automatically generate relevant practice questions with AI-powered illustrations and explanations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
